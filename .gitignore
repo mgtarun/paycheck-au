@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# project data (recreate with ingest/sync_rates.py)
+data/raw/
+data/processed/
+data/chroma/

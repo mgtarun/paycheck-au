@@ -1,0 +1,243 @@
+penalty_fixed_id,clause_fixed_id,clause_description,classification_level,penalty_description,rate,employee_rate_type_code,penalty_calculated_value,calculated_includes_all_purpose,base_pay_rate_id,operative_from,operative_to,version_number,published_year,last_modified_datetime,award_code
+2061,21721,Adult casual employees—ordinary and penalty rates,1.0,Ordinary hours,125.0,AD,32.18,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Ordinary hours,100.0,AD,25.74,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Ordinary hours,100.0,AD,26.13,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Ordinary hours,125.0,AD,32.66,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,1.0,Public holiday,250.0,AD,64.35,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Public holiday,225.0,AD,58.79,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Public holiday,225.0,AD,57.92,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Public holiday,250.0,AD,65.33,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Saturday,150.0,AD,39.2,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,1.0,Saturday,150.0,AD,38.61,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Saturday,125.0,AD,32.18,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Saturday,125.0,AD,32.66,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,1.0,Sunday,175.0,AD,45.05,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Sunday,175.0,AD,45.73,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Sunday,150.0,AD,39.2,False,BR89900,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Sunday,150.0,AD,38.61,False,BR89890,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Ordinary hours,125.0,AD,34.55,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:18+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Ordinary hours,100.0,AD,27.64,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Ordinary hours,100.0,AD,26.44,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,2.0,Ordinary hours,125.0,AD,33.05,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Public holiday,225.0,AD,62.19,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Public holiday,250.0,AD,69.1,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,2.0,Public holiday,250.0,AD,66.1,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Public holiday,225.0,AD,59.49,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,2.0,Saturday,150.0,AD,39.66,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Saturday,150.0,AD,41.46,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Saturday,125.0,AD,33.05,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Saturday,125.0,AD,34.55,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Sunday,150.0,AD,41.46,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Sunday,150.0,AD,39.66,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Sunday,175.0,AD,48.37,False,BR89901,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,2.0,Sunday,175.0,AD,46.27,False,BR89891,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Ordinary hours,100.0,AD,27.08,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Ordinary hours,100.0,AD,28.53,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,3.0,Ordinary hours,125.0,AD,33.85,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,3.0,Ordinary hours,125.0,AD,35.66,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:18+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,3.0,Public holiday,250.0,AD,67.7,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Public holiday,225.0,AD,60.93,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,3.0,Public holiday,250.0,AD,71.33,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Public holiday,225.0,AD,64.19,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Saturday,125.0,AD,33.85,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Saturday,125.0,AD,35.66,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,3.0,Saturday,150.0,AD,42.8,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,3.0,Saturday,150.0,AD,40.62,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,3.0,Sunday,175.0,AD,49.93,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,3.0,Sunday,175.0,AD,47.39,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Sunday,150.0,AD,42.8,False,BR89902,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Sunday,150.0,AD,40.62,False,BR89892,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,125.0,AD,38.54,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:18+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,4.0,Ordinary hours,100.0,AD,27.97,False,BR89894,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,100.0,AD,30.83,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,4.0,Ordinary hours,125.0,AD,34.96,False,BR89894,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,125.0,AD,36.81,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:18+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,100.0,AD,29.45,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,4.0,Public holiday,225.0,AD,62.93,False,BR89894,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Public holiday,225.0,AD,66.26,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,4.0,Public holiday,250.0,AD,69.93,False,BR89894,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Public holiday,225.0,AD,69.37,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Public holiday,250.0,AD,73.63,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Public holiday,250.0,AD,77.08,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Saturday,125.0,AD,38.54,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,41.96,False,BR89894,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,44.18,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,46.25,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,44.18,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,46.25,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Sunday,150.0,AD,46.25,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Sunday,175.0,AD,53.95,False,BR89904,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,4.0,Sunday,175.0,AD,48.95,False,BR89894,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Sunday,175.0,AD,51.54,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,4.0,Sunday,150.0,AD,41.96,False,BR89894,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Sunday,150.0,AD,44.18,False,BR89903,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,5.0,Ordinary hours,125.0,AD,36.81,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Ordinary hours,100.0,AD,29.45,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,5.0,Public holiday,250.0,AD,73.63,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Public holiday,225.0,AD,66.26,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Saturday,125.0,AD,36.81,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,5.0,Saturday,150.0,AD,44.18,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,5.0,Sunday,175.0,AD,51.54,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Sunday,150.0,AD,44.18,False,BR89895,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Ordinary hours,125.0,AD,39.13,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:18+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,6.0,Ordinary hours,125.0,AD,39.13,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Ordinary hours,100.0,AD,31.3,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Ordinary hours,100.0,AD,31.3,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Public holiday,225.0,AD,70.43,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Public holiday,250.0,AD,78.25,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Public holiday,225.0,AD,70.43,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,6.0,Public holiday,250.0,AD,78.25,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,6.0,Saturday,150.0,AD,46.95,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Saturday,125.0,AD,39.13,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Saturday,150.0,AD,46.95,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Saturday,125.0,AD,39.13,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,6.0,Sunday,175.0,AD,54.78,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Sunday,150.0,AD,46.95,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Sunday,150.0,AD,46.95,False,BR89896,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Sunday,175.0,AD,54.78,False,BR89905,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Ordinary hours,125.0,AD,40.29,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:18+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Ordinary hours,100.0,AD,32.13,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,7.0,Ordinary hours,125.0,AD,40.16,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Ordinary hours,100.0,AD,32.23,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Public holiday,250.0,AD,80.58,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,7.0,Public holiday,250.0,AD,80.33,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Public holiday,225.0,AD,72.29,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Public holiday,225.0,AD,72.52,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Saturday,125.0,AD,40.29,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Saturday,150.0,AD,48.35,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,7.0,Saturday,150.0,AD,48.2,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:21+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Saturday,125.0,AD,40.16,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Sunday,150.0,AD,48.2,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:22+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,7.0,Sunday,175.0,AD,56.23,False,BR89897,2026-07-01,,7.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Sunday,150.0,AD,48.35,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Sunday,175.0,AD,56.4,False,BR89906,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Ordinary hours,125.0,AD,41.45,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:18+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Ordinary hours,100.0,AD,33.16,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:20+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Public holiday,250.0,AD,82.9,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Public holiday,225.0,AD,74.61,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Saturday,150.0,AD,49.74,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Saturday,125.0,AD,41.45,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Sunday,175.0,AD,58.03,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:17+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Sunday,150.0,AD,49.74,False,BR89907,2026-07-01,,9.0,2026,2026-06-11T04:12:19+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Ordinary hours,100.0,AD,24.95,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Ordinary hours,100.0,AD,24.28,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,1.0,Ordinary hours,125.0,AD,30.35,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Ordinary hours,125.0,AD,31.19,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Public holiday,225.0,AD,54.63,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:09+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Public holiday,250.0,AD,62.38,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:04+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Public holiday,225.0,AD,56.14,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,1.0,Public holiday,250.0,AD,60.7,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,1.0,Saturday,150.0,AD,36.42,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Saturday,125.0,AD,31.19,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Saturday,150.0,AD,37.43,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Saturday,125.0,AD,30.35,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,1.0,Sunday,150.0,AD,37.43,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Sunday,150.0,AD,36.42,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,1.0,Sunday,150.0,AD,36.42,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,1.0,Sunday,175.0,AD,42.49,False,BR89890,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,1.0,Sunday,175.0,AD,43.66,False,BR89900,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Ordinary hours,125.0,AD,32.98,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Ordinary hours,100.0,AD,24.95,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,2.0,Ordinary hours,125.0,AD,31.19,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Ordinary hours,100.0,AD,26.38,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,2.0,Public holiday,250.0,AD,62.38,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Public holiday,225.0,AD,56.14,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:09+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,2.0,Public holiday,250.0,AD,62.38,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Public holiday,250.0,AD,65.95,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Public holiday,225.0,AD,59.36,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Saturday,150.0,AD,39.57,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Saturday,125.0,AD,31.19,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,2.0,Saturday,150.0,AD,37.43,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Saturday,125.0,AD,32.98,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,2.0,Sunday,175.0,AD,46.17,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,2.0,Sunday,150.0,AD,37.43,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,2.0,Sunday,150.0,AD,39.57,False,BR89901,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,2.0,Sunday,175.0,AD,43.66,False,BR89891,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,3.0,Ordinary hours,125.0,AD,32.31,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,3.0,Ordinary hours,125.0,AD,34.04,False,BR89902,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Ordinary hours,100.0,AD,27.23,False,BR89902,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Ordinary hours,100.0,AD,25.85,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Public holiday,225.0,AD,58.16,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:09+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,3.0,Public holiday,250.0,AD,64.63,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Public holiday,225.0,AD,58.16,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:09+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Public holiday,225.0,AD,61.27,False,BR89902,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,3.0,Saturday,150.0,AD,38.78,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,3.0,Saturday,150.0,AD,40.85,False,BR89902,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Saturday,125.0,AD,34.04,False,BR89902,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Saturday,125.0,AD,32.31,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,3.0,Sunday,150.0,AD,40.85,False,BR89902,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,3.0,Sunday,175.0,AD,47.65,False,BR89902,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,3.0,Sunday,150.0,AD,38.78,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,3.0,Sunday,175.0,AD,45.24,False,BR89892,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,125.0,AD,36.8,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,100.0,AD,29.44,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,125.0,AD,35.15,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Ordinary hours,100.0,AD,28.12,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,4.0,Ordinary hours,100.0,AD,26.7,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,4.0,Ordinary hours,125.0,AD,33.38,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,4.0,Public holiday,225.0,AD,60.08,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:09+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Public holiday,250.0,AD,73.6,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Public holiday,250.0,AD,70.3,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,4.0,Public holiday,250.0,AD,66.75,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Public holiday,225.0,AD,63.27,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Public holiday,225.0,AD,66.24,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,42.18,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Saturday,125.0,AD,36.8,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Saturday,125.0,AD,35.15,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,40.05,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Saturday,150.0,AD,44.16,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,4.0,Saturday,125.0,AD,33.38,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Sunday,150.0,AD,44.16,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,4.0,Sunday,175.0,AD,46.73,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Sunday,175.0,AD,49.21,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,4.0,Sunday,150.0,AD,42.18,False,BR89903,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,4.0,Sunday,175.0,AD,51.52,False,BR89904,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,4.0,Sunday,150.0,AD,40.05,False,BR89894,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,5.0,Ordinary hours,125.0,AD,35.15,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Ordinary hours,100.0,AD,28.12,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,5.0,Public holiday,250.0,AD,70.3,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Public holiday,225.0,AD,63.27,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Saturday,125.0,AD,35.15,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,5.0,Saturday,150.0,AD,42.18,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,5.0,Sunday,150.0,AD,42.18,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,5.0,Sunday,175.0,AD,49.21,False,BR89895,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Ordinary hours,100.0,AD,29.88,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,6.0,Ordinary hours,125.0,AD,37.35,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Ordinary hours,125.0,AD,37.35,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Ordinary hours,100.0,AD,29.88,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,6.0,Public holiday,250.0,AD,74.7,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Public holiday,250.0,AD,74.7,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Public holiday,225.0,AD,67.23,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Public holiday,225.0,AD,67.23,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Saturday,125.0,AD,37.35,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,6.0,Saturday,150.0,AD,44.82,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Saturday,150.0,AD,44.82,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Saturday,125.0,AD,37.35,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,6.0,Sunday,175.0,AD,52.29,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,6.0,Sunday,175.0,AD,52.29,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,6.0,Sunday,150.0,AD,44.82,False,BR89905,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,6.0,Sunday,150.0,AD,44.82,False,BR89896,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Ordinary hours,125.0,AD,38.46,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Ordinary hours,100.0,AD,30.77,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2061,21721,Adult casual employees—ordinary and penalty rates,7.0,Ordinary hours,125.0,AD,38.35,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2053,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Ordinary hours,100.0,AD,30.68,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Public holiday,250.0,AD,76.93,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2064,21721,Adult casual employees—ordinary and penalty rates,7.0,Public holiday,250.0,AD,76.7,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2056,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Public holiday,225.0,AD,69.03,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Public holiday,225.0,AD,69.23,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2054,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Saturday,125.0,AD,38.35,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Saturday,150.0,AD,46.16,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Saturday,125.0,AD,38.46,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2062,21721,Adult casual employees—ordinary and penalty rates,7.0,Saturday,150.0,AD,46.02,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2063,21721,Adult casual employees—ordinary and penalty rates,7.0,Sunday,175.0,AD,53.69,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:08+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,7.0,Sunday,150.0,AD,46.16,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2055,21719,Adult full-time and part-time employees—ordinary and penalty rates,7.0,Sunday,150.0,AD,46.02,False,BR89897,2025-07-01,2026-06-30,6.0,2025,2026-06-23T02:41:10+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,7.0,Sunday,175.0,AD,53.85,False,BR89906,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2077,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Ordinary hours,100.0,AD,31.66,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2085,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Ordinary hours,125.0,AD,39.58,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2088,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Public holiday,250.0,AD,79.15,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2080,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Public holiday,225.0,AD,71.24,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:06+00:00,MA000009
+2078,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Saturday,125.0,AD,39.58,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009
+2086,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Saturday,150.0,AD,47.49,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2087,21727,Adult casual casino gaming employees—ordinary and penalty rates,8.0,Sunday,175.0,AD,55.41,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:05+00:00,MA000009
+2079,21725,Adult full-time and part-time casino gaming employees—ordinary and penalty rates,8.0,Sunday,150.0,AD,47.49,False,BR89907,2025-07-01,2026-06-30,8.0,2025,2026-06-23T02:41:07+00:00,MA000009

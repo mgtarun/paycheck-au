@@ -2,7 +2,7 @@
 
 Expected rates come from MA000009 Schedule B.2.1 and B.2.3 (rates from 1 July 2026).
 
-Needs real data first:  python ingest/sync_rates.py MA000009
+Uses the fixed test data in tests/fixtures/ (see make_fixtures.py), so no download is needed.
 Run from the paycheck-au folder:  python -m pytest -v
 """
 
